@@ -13,21 +13,19 @@
   
 - <b>C# (.NET Desktop Applications)</b>
   - [placeholder](https://github.com/omia005)
-  - 
+   
 - <b>Python</b>
   - [placeholder](https://github.com/omia005)
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Popular YouTube Videos</h2>-
+  -[The Circle Pitch Video](https://youtu.be/xzcFDhCDAkQ)
 
-- [The Circle Pitch Video](https://youtu.be/xzcFDhCDAkQ)
+<h3>📺 Popular YouTube Videos</h3>-
+  -[ALX Professional foundation](https://ehub.alxafrica.com/profile/4ba383ce-56bd-4130-8a78-c0426abe1b48)
 
+  -[Python](https://www.kaggle.com/evansomia)
 
-<h3> 👨‍💻Skills and Certification </h3>
-
--[ALX Professional studies](https://ehub.alxafrica.com/profile/4ba383ce-56bd-4130-8a78-c0426abe1b48)
-
--[Python for beginners](https://www.kaggle.com/evansomia)
 
 <h4> 🤳 Connect with me:</h4>
 
