@@ -18,16 +18,16 @@
   - [placeholder](https://github.com/omia005)
 
 
-<h2 font size:36px>  📺 Popular YouTube Videos</h2>
+<h2>  📺 Popular YouTube Videos</h2>
   -[The Circle Pitch Video](https://youtu.be/xzcFDhCDAkQ)
 
-<h3font size:36px> Certification </h3>-
+
+<h3> Certification </h3>
+
   -[ALX Professional foundation](https://ehub.alxafrica.com/profile/4ba383ce-56bd-4130-8a78-c0426abe1b48)
 
-  -[Python](https://www.kaggle.com/evansomia)
 
-
-<h4font size:36px> 🤳 Connect with me:</h4>
+<h4> 🤳 Connect with me:</h4>
 
 [<img align="left" alt="Evans | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Evans | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
