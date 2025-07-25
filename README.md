@@ -21,7 +21,7 @@
 <h2>📺 Popular YouTube Videos</h2>-
   -[The Circle Pitch Video](https://youtu.be/xzcFDhCDAkQ)
 
-<h3>📺 Popular YouTube Videos</h3>-
+<h3> Certification </h3>-
   -[ALX Professional foundation](https://ehub.alxafrica.com/profile/4ba383ce-56bd-4130-8a78-c0426abe1b48)
 
   -[Python](https://www.kaggle.com/evansomia)
