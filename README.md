@@ -1,6 +1,6 @@
 <h1>Hi, I'm Evans! <br/><a href="https://github.com/omia005">Programmer</a>, <a href="https://www.linkedin.com/in/evans-m-a72aa02b3/">Software Developer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h1>👨‍💻 Software Development Projects:</h1>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [placeholder](https://github.com/omia005/)
@@ -22,12 +22,12 @@
   -[The Circle Pitch Video](https://youtu.be/xzcFDhCDAkQ)
 
 
-<h3> Certification </h3>
+<h2> Certification </h2>
 
   -[ALX Professional foundation](https://ehub.alxafrica.com/profile/4ba383ce-56bd-4130-8a78-c0426abe1b48)
 
 
-<h4> 🤳 Connect with me:</h4>
+<h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Evans | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Evans | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
